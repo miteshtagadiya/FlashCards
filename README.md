@@ -1,4 +1,4 @@
-# UdaciCards Project
+# FlashCards Project
 
 A mobile application (Android or iOS - or both) that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
 
@@ -12,6 +12,8 @@ To get started developing right away:
 * start the development server with `npm start`
 * scan QR code in expo app and app is starting...
 
+## Demo
+[https://snack.expo.io/@miteshtagadiya/mobile-flashcards](https://snack.expo.io/@miteshtagadiya/mobile-flashcards)
 
 ## App Structure
 ```bash
